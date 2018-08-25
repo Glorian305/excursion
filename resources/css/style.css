@@ -1,0 +1,23 @@
+body {
+  font-family: Verdana;
+  color: White;
+  background-color: Black;
+  text-align: center;
+}
+
+.header {
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+  color: White;
+}
+
+.title {
+  font-weight:normal
+  font-size: 42px;
+}
+
+.about-Excursion {
+  font-size: 21px;
+  color: Gray;
+}
